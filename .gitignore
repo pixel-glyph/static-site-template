@@ -1,0 +1,27 @@
+# node dependencies
+/node_modules
+
+# npm
+npm-debug.log*
+
+# styles
+src/**/*.css
+*.css.map
+.sass-cache
+
+# VScode
+.vscode/
+
+# misc
+.DS_Store
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+public/*
+!public/img
+!public/*.png
+!public/*.ico
+!public/*.json
+!public/*.svg
+!public/*.xml

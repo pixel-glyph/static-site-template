@@ -1,0 +1,18 @@
+{
+  "name": "dev-portfolio",
+  "version": "1.0.0",
+  "description": "See it here:",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "gulp": "^3.9.1",
+    "harp": "^0.25.0"
+  },
+  "devDependencies": {
+    "browser-sync": "^2.23.6"
+  }
+}
