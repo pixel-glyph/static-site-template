@@ -1,5 +1,5 @@
-# A Static Site Template
+# A Static Site Project Template
 
-This template uses the following:
+My preferred template for beginning static site projects. This template uses the following:
 - [HarpJS](http://harpjs.com/)
 - [Browsersync](https://browsersync.io/)
